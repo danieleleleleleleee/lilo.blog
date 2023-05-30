@@ -3,43 +3,50 @@ title = "slam poetry"
 date = "2023-05-25"
 draft = false
 pinned = false
+image = "photo-2.webp"
 +++
-![](<>)![](<>)![](<>)As cold winds encourage the trees to dance in the night sky,
+Cold. Ice cold. Ice cold winds encourage the trees to dance in the night sky.
 
-![](<>)![](<>)![](<>)![](<>)I am more than glad to be inside.
+Oh for now i am more than glad to stay inside. 
 
-![](<>)![](<>)![](<>)The warmth of burning wood caressing my skin,
+From the comfort of my own home, 
 
-![](<>)![](<>)![](<>)![](<>)![](<>)![](<>)With a silky-smooth blanket cradling me in. 
+I feel the warmth of burning wood caressing my skin, 
 
-![](<>)![](<>)![](<>)![](<>)Feeling like a newborn baby, 
+With a silky-smooth blanket cradling me in. 
 
-I sit here and can’t help but grin. 
+Immersed, i feel like a newborn baby, 
 
-
-
-I hear church bells singing in the distance,
-
-Wow, I am so thankful for my existence.
-
-![](<>)The words of the preachers being heard by all creatures, 
-
-What wonderful teachers. 
+But with my tea more like eighty. 
 
 
 
-![](<>)![](<>)Ding! 
+Hearing churchbells singing in the distance,
+
+I am so thankful for my existance. 
+
+The words of the preachers being heard by all creatures, 
+
+What wonderful teachers. 
 
 
 
-![](<>)A sweet smell spills out of the kitchen. 
+Ding!
 
-![](<>)The smell of cocoa and cinnamon fills the air. 
 
-![](<>)![](<>)My tummy grumbles with delight, 
 
-![](<>)![](<>)Oh I am ready for the first bite. 
+A sweet smell spills out of the kitchen. 
 
-What a captivating experience each delicacy holds,
+The smell of cocoa and cinnamon fills the air.
 
-I can’t help but yearn for more.
+My tummy grumbles with delight, 
+
+I am ready for the first bite 
+
+What a captivating experience each delicacy has in store, 
+
+I can't help but yearn for more. 
+
+Cold. Ice cold. Ice cold winters that fly by, 
+
+Sometimes even as fast as a butterfly.
