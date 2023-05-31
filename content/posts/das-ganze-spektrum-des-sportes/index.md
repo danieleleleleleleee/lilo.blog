@@ -3,6 +3,7 @@ title = "Das ganze Spektrum des Sportes"
 date = "2023-05-04"
 draft = false
 pinned = false
+image = "bild-autismuslink.jpg"
 +++
 
 
